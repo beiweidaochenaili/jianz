@@ -1,0 +1,23 @@
+{
+  "name": "umi-xiaodi",
+  "version": "1.0.0",
+  "description": "react 使用umi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "umi dev",
+    "build": "umi build"
+  },
+  "author": "me",
+  "license": "ISC",
+  "dependencies": {
+    "ant-design-pro": "^2.3.2",
+    "antd": "^3.26.11",
+    "axios": "^0.19.2",
+    "moment": "^2.24.0",
+    "reqwest": "^2.0.5"
+  },
+  "devDependencies": {
+    "umi-plugin-react": "^1.15.2"
+  }
+}

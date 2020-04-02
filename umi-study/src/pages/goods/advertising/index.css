@@ -1,0 +1,24 @@
+h1{
+    font-size: 25px;
+    font-weight: bold;
+}
+.backbtn{
+    position: absolute !important;
+    top:7.5rem !important;
+    right: 1rem !important;
+}
+.upload-list-inline .ant-upload-list-item {
+    float: left;
+    width: 200px;
+    margin-right: 8px;
+  }
+  
+  .upload-list-inline [class*='-upload-list-rtl'] .ant-upload-list-item {
+    float: right;
+  }
+  .upload-list-inline .ant-upload-animate-enter {
+    animation-name: uploadAnimateInlineIn;
+  }
+  .upload-list-inline .ant-upload-animate-leave {
+    animation-name: uploadAnimateInlineOut;
+  }

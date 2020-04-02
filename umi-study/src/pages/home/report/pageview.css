@@ -1,0 +1,14 @@
+.workname{
+  display: block;
+}
+h1{
+  font-weight: bold;
+  font-size: 25px;
+}
+.richtext{
+  border:1px solid #ccc !important;
+  border-radius: 5px;
+  width:685px;
+  height: 200px;
+  margin-top:15px;
+}
